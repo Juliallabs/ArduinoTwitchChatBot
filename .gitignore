@@ -1,0 +1,9 @@
+# Ignore this files
+node_modules/
+options.json
+
+# Windows Files
+Thumbs.db
+
+# MacOSX Files
+.DS_Store
